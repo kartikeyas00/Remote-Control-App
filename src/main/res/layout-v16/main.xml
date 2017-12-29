@@ -77,7 +77,6 @@
             android:id="@+id/button9"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-
             android:layout_above="@+id/button1"
             android:layout_alignParentLeft="true"
             android:layout_marginBottom="19dp"
@@ -88,7 +87,6 @@
             android:id="@+id/button10"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-
             android:layout_alignBottom="@+id/button11"
             android:layout_alignParentRight="true"
             android:layout_marginRight="12dp"
@@ -98,7 +96,6 @@
             android:id="@+id/button11"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-
             android:layout_alignBaseline="@+id/button9"
             android:layout_alignBottom="@+id/button9"
             android:layout_centerHorizontal="true"
@@ -125,10 +122,7 @@
             android:layout_marginBottom="15dp"
             android:ems="16"
             android:inputType="textPersonName">
-
             <requestFocus />
         </EditText>
     </RelativeLayout>
-
-
 </LinearLayout>
